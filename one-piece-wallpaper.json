@@ -26,11 +26,6 @@
   "album_config": {
   "album": [
     {
-      "id": "live",
-      "name": "Live",
-      "thumb": ""
-    },
-    {
       "id": "luffy",
       "name": "Monkey D. Luffy",
       "thumb": ""

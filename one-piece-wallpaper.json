@@ -5,7 +5,7 @@
       "unity"
     ],
     "ad_time": 40,
-    "ad_spacing":2,
+    "ad_spacing": 2,
     "ad_model": [
       {
         "name": "admob",
@@ -14,7 +14,7 @@
         "popup_id": "ca-app-pub-3940256099942544/1033173712",
         "reward_id": "ca-app-pub-3940256099942544/5224354917"
       },
-       {
+      {
         "name": "unity",
         "app_id": "3943833",
         "banner_id": "banner",
@@ -24,79 +24,79 @@
     ]
   },
   "album_config": {
-  "album": [
-    {
-      "id": "luffy",
-      "name": "Monkey D. Luffy",
-      "thumb": ""
-    },
-    {
-      "id": "zoro",
-      "name": "Roronoa Zoro",
-      "thumb": ""
-    },
-    {
-      "id": "sanji",
-      "name": "Vinsmoke Sanji",
-      "thumb": ""
-    },
-    {
-      "id": "usopp",
-      "name": "Usopp",
-      "thumb": ""
-    },
-    {
-      "id": "nami",
-      "name": "Nami",
-      "thumb": ""
-    },
-    {
-      "id": "robin",
-      "name": "Nico Robin",
-      "thumb": ""
-    },
-    {
-      "id": "chopper",
-      "name": "Tony Tony Chopper",
-      "thumb": ""
-    },
-    {
-      "id": "jinbe",
-      "name": "Jinbe",
-      "thumb": ""
-    },
-    {
-      "id": "brook",
-      "name": "Brook",
-      "thumb": ""
-    },
-    {
-      "id": "franky",
-      "name": "Franky",
-      "thumb": ""
-    },
-    {
-      "id": "ace",
-      "name": "Portgas D. Ace",
-      "thumb": ""
-    },
-    {
-      "id": "law",
-      "name": "Trafalgar D. Water Law",
-      "thumb": ""
-    },
-    {
-      "id": "hancock",
-      "name": "Boa Hancock",
-      "thumb": ""
-    },
-    {
-      "id": "others",
-      "name": "Others",
-      "thumb": ""
-    }
-  ]
-},
+    "album": [
+      {
+        "id": "luffy",
+        "name": "Monkey D. Luffy",
+        "thumb": ""
+      },
+      {
+        "id": "zoro",
+        "name": "Roronoa Zoro",
+        "thumb": ""
+      },
+      {
+        "id": "sanji",
+        "name": "Vinsmoke Sanji",
+        "thumb": ""
+      },
+      {
+        "id": "usopp",
+        "name": "Usopp",
+        "thumb": ""
+      },
+      {
+        "id": "nami",
+        "name": "Nami",
+        "thumb": ""
+      },
+      {
+        "id": "robin",
+        "name": "Nico Robin",
+        "thumb": ""
+      },
+      {
+        "id": "chopper",
+        "name": "Tony Tony Chopper",
+        "thumb": ""
+      },
+      {
+        "id": "jinbe",
+        "name": "Jinbe",
+        "thumb": ""
+      },
+      {
+        "id": "brook",
+        "name": "Brook",
+        "thumb": ""
+      },
+      {
+        "id": "franky",
+        "name": "Franky",
+        "thumb": ""
+      },
+      {
+        "id": "ace",
+        "name": "Portgas D. Ace",
+        "thumb": ""
+      },
+      {
+        "id": "law",
+        "name": "Trafalgar D. Water Law",
+        "thumb": ""
+      },
+      {
+        "id": "hancock",
+        "name": "Boa Hancock",
+        "thumb": ""
+      },
+      {
+        "id": "others",
+        "name": "Others",
+        "thumb": ""
+      }
+    ]
+  },
   "update_config": {
     "enable": true,
     "versionCode": 1,
@@ -113,52 +113,61 @@
   "fanpage_config": {
     "fanpage": [
       {
-        "link": "https://www.facebook.com/groups/2823653281222943",
-        "target": "us",
-        "enable": true
-      },
-      {
-        "link": "https://www.facebook.com/groups/2823653281222943",
+        "link": "https://www.facebook.com/otakuinvn",
         "target": "vn",
         "enable": true
       },
       {
-        "link": "https://www.facebook.com/groups/2823653281222943",
+        "link": "https://www.facebook.com/groups/1905846616249110",
         "target": "def",
         "enable": true
       }
     ]
   },
   "youtube_config": {
-    
+    "youtube": [
+      {
+        "link": "https://www.youtube.com/channel/UCm4YjqB1omGefSSIHtll--Q/",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "https://www.youtube.com/channel/UCm4YjqB1omGefSSIHtll--Q/",
+        "target": "def",
+        "enable": true
+      }
+    ]
   },
-   "teechip_config": {
-       "url":"https://www.animestoresugoi.com/tags/tokyo-revengers"
-   },
+  "tiktok_config": {
+    "tiktok": [
+      {
+        "link": "https://www.tiktok.com/@soochin221120",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "",
+        "target": "def",
+        "enable": false
+      }
+    ]
+  },
   "shopping_config": {
     "shopping": [
       {
-        "data_file_url": "",
-        "target": "def",
-        "enable": false,
-        "show_price": true
-      },
-      {
-        "data_file_url": "",
+        "link": "https://animesugoistore.com/",
         "target": "vn",
-        "enable": false,
-        "show_price": true
+        "enable": true
       },
       {
-        "data_file_url": "",
-        "target": "us",
-        "enable": false,
-        "show_price": true
+        "link": "https://animesugoistore.com/",
+        "target": "def",
+        "enable": true
       }
     ]
   },
   "moreapp_config": {
-   "moreapp": [
+    "moreapp": [
       {
         "title": "Tokyo Revengers Onet Connect Game",
         "text": "",
@@ -177,7 +186,7 @@
         "stars": 5,
         "numberOfUser": 100000
       },
-       {
+      {
         "title": "KNY Wallpaper HD 4K",
         "text": "",
         "iconUrl": "https://i.pinimg.com/564x/eb/09/22/eb0922ac3bcdd8aa5fd650db010cdc67.jpg",
@@ -186,7 +195,7 @@
         "stars": 5,
         "numberOfUser": 100000
       },
-       {
+      {
         "title": "Tokyo Revengers Wallpaper HD 4K",
         "text": "",
         "iconUrl": "https://i.pinimg.com/564x/0e/1e/71/0e1e7139254dccc5ba059259962dec1c.jpg",
@@ -195,7 +204,7 @@
         "stars": 5,
         "numberOfUser": 100000
       },
-       {
+      {
         "title": "KNY Shimeji",
         "text": "",
         "iconUrl": "https://i.pinimg.com/564x/91/0d/14/910d14ec0d69d01ad903e59884a8b800.jpg",

@@ -9,14 +9,14 @@
     "ad_model": [
       {
         "name": "admob",
-        "app_id": "ca-app-pub-8118635853638933~7160994827",
-        "banner_id": "ca-app-pub-8118635853638933/3376828339",
-        "popup_id": "ca-app-pub-8118635853638933/5223234801",
-        "reward_id": "ca-app-pub-8118635853638933/7899361427"
+        "app_id": "ca-app-pub-3940256099942544~3347511713",
+        "banner_id": "ca-app-pub-3940256099942544/6300978111",
+        "popup_id": "ca-app-pub-3940256099942544/1033173712",
+        "reward_id": "ca-app-pub-3940256099942544/5224354917"
       },
        {
         "name": "unity",
-        "app_id": "4136481",
+        "app_id": "3943833",
         "banner_id": "banner",
         "popup_id": "video",
         "reward_id": "video"
@@ -26,33 +26,68 @@
   "album_config": {
   "album": [
     {
-      "id": "manjiro_sano",
-      "name": "Manjiro Sano",
+      "id": "luffy",
+      "name": "Monkey D. Luffy",
       "thumb": ""
     },
     {
-      "id": "takemichi_hanagaki",
-      "name": "Takemichi Hanagaki",
+      "id": "zoro",
+      "name": "Roronoa Zoro",
       "thumb": ""
     },
     {
-      "id": "hinata_tachibana",
-      "name": "Hinata Tachibana ",
+      "id": "sanji",
+      "name": "Vinsmoke Sanji",
       "thumb": ""
     },
     {
-      "id": "kazutora_hanemiya",
-      "name": "Kazutora Hanemiya",
+      "id": "usopp",
+      "name": "Usopp",
       "thumb": ""
     },
     {
-      "id": "keisuke_baji",
-      "name": "Keisuke Baji",
+      "id": "nami",
+      "name": "Nami",
       "thumb": ""
     },
     {
-      "id": "ken_ryuuguji",
-      "name": "Ken Ryuuguji",
+      "id": "robin",
+      "name": "Nico Robin",
+      "thumb": ""
+    },
+    {
+      "id": "chopper",
+      "name": "Tony Tony Chopper",
+      "thumb": ""
+    },
+    {
+      "id": "jinbe",
+      "name": "Jinbe",
+      "thumb": ""
+    },
+    {
+      "id": "brook",
+      "name": "Brook",
+      "thumb": ""
+    },
+    {
+      "id": "franky",
+      "name": "Franky",
+      "thumb": ""
+    },
+    {
+      "id": "ace",
+      "name": "Portgas D. Ace",
+      "thumb": ""
+    },
+    {
+      "id": "law",
+      "name": "Trafalgar D. Water Law",
+      "thumb": ""
+    },
+    {
+      "id": "hancock",
+      "name": "Boa Hancock",
       "thumb": ""
     },
     {

@@ -212,16 +212,18 @@
       }
     ]
   },
-  "pin_ads": [
-    {
-      "link": "https://play.google.com/store/apps/details?id=com.one.wallpaper.pie",
-      "thumb": "https://i.pinimg.com/564x/99/6e/da/996eda663b9b660137967d89c0391692.jpg",
-      "created": "20220830"
-    },
-    {
-      "link": "https://media.giphy.com/media/PEMfdDHDcfEQw/giphy.gif",
-      "thumb": "https://play.google.com/store/apps/details?id=com.symbols24.androidapp",
-      "created": "20220830"
-    }
-  ]
+  "pin_ads_config": {
+    "pins": [
+      {
+        "link": "https://play.google.com/store/apps/details?id=com.one.wallpaper.pie",
+        "thumb": "https://i.pinimg.com/564x/99/6e/da/996eda663b9b660137967d89c0391692.jpg",
+        "created": "20220830"
+      },
+      {
+        "link": "https://media.giphy.com/media/PEMfdDHDcfEQw/giphy.gif",
+        "thumb": "https://play.google.com/store/apps/details?id=com.symbols24.androidapp",
+        "created": "20220830"
+      }
+    ]
+  }
 }

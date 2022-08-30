@@ -110,7 +110,7 @@
     "message": "",
     "url": ""
   },
-  "fanpage_config": {
+  "community_config": {
     "fanpage": [
       {
         "link": "https://www.facebook.com/otakuinvn",
@@ -122,9 +122,7 @@
         "target": "def",
         "enable": true
       }
-    ]
-  },
-  "youtube_config": {
+    ],
     "youtube": [
       {
         "link": "https://www.youtube.com/channel/UCm4YjqB1omGefSSIHtll--Q/",
@@ -136,9 +134,7 @@
         "target": "def",
         "enable": true
       }
-    ]
-  },
-  "tiktok_config": {
+    ],
     "tiktok": [
       {
         "link": "https://www.tiktok.com/@soochin221120",
@@ -150,9 +146,7 @@
         "target": "def",
         "enable": false
       }
-    ]
-  },
-  "shopping_config": {
+    ],
     "shopping": [
       {
         "link": "https://animesugoistore.com/",

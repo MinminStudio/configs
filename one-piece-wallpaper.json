@@ -6,6 +6,7 @@
     ],
     "ad_time": 40,
     "ad_spacing": 2,
+    "show_banner": true,
     "ad_model": [
       {
         "name": "admob",

@@ -166,47 +166,11 @@
   "moreapp_config": {
     "moreapp": [
       {
-        "title": "Tokyo Revengers Onet Connect Game",
+        "title": "Anime Live Wallpaper 4K",
         "text": "",
-        "iconUrl": "https://i.pinimg.com/564x/85/7e/b9/857eb9cbbb2497490ba2bf1057f0b025.jpg",
-        "mainImageUrl": "https://i.pinimg.com/1200x/d3/b4/40/d3b44082269a2485dcb1dee00f25ec7e.jpg",
-        "actionUrl": "com.shinobi.revengers.onet",
-        "stars": 5,
-        "numberOfUser": 100000
-      },
-      {
-        "title": "Tokyo Revengers Stickers",
-        "text": "",
-        "iconUrl": "https://i.pinimg.com/564x/c4/0c/da/c40cda6c3fab7e1b92e4d6f1cdd3ae4b.jpg",
-        "mainImageUrl": "https://i.pinimg.com/1200x/ce/d4/08/ced4087461b6beb86fe02d8ddb933eb6.jpg",
-        "actionUrl": "com.anbu.revengers.sticker",
-        "stars": 5,
-        "numberOfUser": 100000
-      },
-      {
-        "title": "KNY Wallpaper HD 4K",
-        "text": "",
-        "iconUrl": "https://i.pinimg.com/564x/eb/09/22/eb0922ac3bcdd8aa5fd650db010cdc67.jpg",
-        "mainImageUrl": "https://i.pinimg.com/1200x/93/9a/f1/939af19a029342a4af29c22117eef610.jpg",
-        "actionUrl": "com.shinobi.kimetsu.wallpaper",
-        "stars": 5,
-        "numberOfUser": 100000
-      },
-      {
-        "title": "Tokyo Revengers Wallpaper HD 4K",
-        "text": "",
-        "iconUrl": "https://i.pinimg.com/564x/0e/1e/71/0e1e7139254dccc5ba059259962dec1c.jpg",
-        "mainImageUrl": "https://i.pinimg.com/1200x/28/3e/b1/283eb10399a0bab825c3455549e39231.jpg",
-        "actionUrl": "com.shinobi.revenger.wallpaper",
-        "stars": 5,
-        "numberOfUser": 100000
-      },
-      {
-        "title": "KNY Shimeji",
-        "text": "",
-        "iconUrl": "https://i.pinimg.com/564x/91/0d/14/910d14ec0d69d01ad903e59884a8b800.jpg",
-        "mainImageUrl": "https://i.pinimg.com/1200x/d2/3f/8d/d23f8da01814cffc098916eb138912c8.jpg",
-        "actionUrl": "com.shinobi.kny.shimeji",
+        "iconUrl": "https://play-lh.googleusercontent.com/Rhhs8iWQ0sVHETj5QV7ew_lcRuFoCSMX4Xqy6A_LSDrUD_8aZgXfyPnL-xkruTdnpr8O=s512-rw",
+        "mainImageUrl": "https://play-lh.googleusercontent.com/9TTk5AFZRlXM09g6ThktEFM544E36dmCvlTf0ghd6uxZbIICiRG19X87eeeGJqu7_RQ=w1024-h500-rw",
+        "actionUrl": "com.minmin.anime.live",
         "stars": 5,
         "numberOfUser": 100000
       }
@@ -220,8 +184,8 @@
         "created": "20220830"
       },
       {
-        "link": "https://play.google.com/store/apps/details?id=com.symbols24.androidapp",
-        "thumb": "https://media.giphy.com/media/PEMfdDHDcfEQw/giphy.gif",
+        "link": "https://play.google.com/store/apps/details?id=com.minmin.anime.live",
+        "thumb": "https://media.giphy.com/media/MeYAMYTeDG72UI6Gc0/giphy.gif",
         "created": "20220830"
       }
     ]

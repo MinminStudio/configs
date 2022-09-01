@@ -20,8 +20,8 @@
         "name": "unity",
         "app_id": "4910055",
         "banner_id": "banner",
-        "popup_id": "video",
-        "reward_id": "video",
+        "popup_id": "Android_Interstitial",
+        "reward_id": "Android_Rewarded",
         "popup_time": 0
       }
     ]

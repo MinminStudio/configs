@@ -10,15 +10,15 @@
     "ad_model": [
       {
         "name": "admob",
-        "app_id": "ca-app-pub-3940256099942544~3347511713",
-        "banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "popup_id": "ca-app-pub-3940256099942544/1033173712",
-        "reward_id": "ca-app-pub-3940256099942544/5224354917",
+        "app_id": "ca-app-pub-9478049238476341~6625087989",
+        "banner_id": "ca-app-pub-9478049238476341/2010506813",
+        "popup_id": "ca-app-pub-9478049238476341/7071261807",
+        "reward_id": "ca-app-pub-9478049238476341/9989617922",
         "popup_time": 30
       },
       {
         "name": "unity",
-        "app_id": "3943833",
+        "app_id": "4910055",
         "banner_id": "banner",
         "popup_id": "video",
         "reward_id": "video",
@@ -178,11 +178,6 @@
   },
   "pin_ads_config": {
     "pins": [
-      {
-        "link": "https://play.google.com/store/apps/details?id=com.one.wallpaper.pie",
-        "thumb": "https://i.pinimg.com/564x/99/6e/da/996eda663b9b660137967d89c0391692.jpg",
-        "created": "20220830"
-      },
       {
         "link": "https://play.google.com/store/apps/details?id=com.minmin.anime.live",
         "thumb": "https://media.giphy.com/media/MeYAMYTeDG72UI6Gc0/giphy.gif",
